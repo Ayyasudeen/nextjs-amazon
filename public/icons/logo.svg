@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 120">
+  <!-- Background circle -->
+  <circle cx="200" cy="60" r="55" fill="#FF9900"/>
+  
+  <!-- Smile curve -->
+  <path d="M140 70 Q200 120 260 70" stroke="#232F3E" stroke-width="8" fill="none"/>
+  
+  <!-- Arrow connecting start to end -->
+  <path d="M255 75 L270 70 L255 65" stroke="#232F3E" stroke-width="3" fill="none"/>
+  
+  <!-- Text -->
+  <text x="200" y="65" 
+        font-family="Arial, sans-serif" 
+        font-size="48" 
+        fill="#232F3E" 
+        text-anchor="middle" 
+        font-weight="bold">
+    SHOP
+  </text>
+  
+  <!-- Tagline -->
+  <text x="200" y="110" 
+        font-family="Arial, sans-serif" 
+        font-size="14" 
+        fill="#232F3E" 
+        text-anchor="middle">
+    discover everything
+  </text>
+</svg>
